@@ -1,1 +1,1 @@
-Guarde aqui somente arquivos .sql
+# Guarde aqui somente arquivos .sql
