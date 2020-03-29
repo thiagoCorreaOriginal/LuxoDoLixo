@@ -1,2 +1,2 @@
-# Coloque nesta pasta, somente modelos de bancos de dados
+# Coloque nesta pasta, somente modelos de bancos de dados b
 # Metadados, criados com ferramentas de desenho com o DATAMODELER
